@@ -1,0 +1,9 @@
+*.ai_enhancements.py
+
+# Environment variables
+.env
+
+# Databases
+
+fitness_diet.db
+
